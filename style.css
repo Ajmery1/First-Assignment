@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: white;
+}
+
+section {
+    background-image: url(donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+
+.click-button {
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
